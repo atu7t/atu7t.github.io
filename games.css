@@ -1,0 +1,26 @@
+/*why cant we just make one system to make a comment on all programming languages?*/
+body{
+    background-color: lightslategray;
+    }
+    h1{
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    img{
+        display: block;
+        width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    p{
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    a{
+        color: black;
+        display: block;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+      }
